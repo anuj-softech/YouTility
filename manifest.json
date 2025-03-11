@@ -1,0 +1,13 @@
+{
+  "name": "YouTility",
+  "description": "Youtube extension for adding keyboard shortcuts",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
