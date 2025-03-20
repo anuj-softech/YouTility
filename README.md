@@ -14,7 +14,7 @@ Youtily is an open-source Chrome extension that enhances your YouTube experience
 
 1. Download the latest release or clone this repository:
     ```bash
-    git clone https://github.com/yourusername/youtily.git
+    git clone https://github.com/anuj-softech/YouTility.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode** (toggle in the top-right corner).
@@ -37,7 +37,7 @@ Contributions are welcome! To contribute:
 
 ## Reporting Issues
 
-If you encounter any issues or have suggestions, please open an [issue](https://github.com/yourusername/youtily/issues) on GitHub.
+If you encounter any issues or have suggestions, please open an [issue](https://github.com/anuj-softech/YouTility/issues) on GitHub.
 
 ## Roadmap
 
@@ -57,7 +57,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Elevate your YouTube experience with **Youtily**! 🔍✨
 
-[GitHub Repository](https://github.com/yourusername/youtily)
+[GitHub Repository](https://github.com/anuj-softech/YouTility/)
 
 ---
 
